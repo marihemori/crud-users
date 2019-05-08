@@ -1,2 +1,2 @@
-# CRUD_Usuarios
-Repositório para versionar um projeto utilizando Laravel e PHP
+# CRUD Usuários
+Repositório para versionar um projeto utilizando a linguagem PHP, juntamente com o framework Laravel.
